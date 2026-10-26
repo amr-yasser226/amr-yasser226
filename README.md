@@ -4,7 +4,7 @@ Computational Science and Artificial Intelligence student at **Zewail City**, wi
 
 I work on machine learning, deep learning, and applied optimization. My background spans competition ML (Kaggle), generative deep learning, and from-scratch implementations of optimization and information-theory algorithms.
 
-- [My Resume](https://amr-yasser226.github.io/amr-yasser226/resume.pdf)
+- [My Resume](https://amr-yasser226.github.io/amr-yasser226/resume.pdf) (not updated, will soon)
 - [LinkedIn](https://www.linkedin.com/in/amr-yasser-1027542a4)
 - amr.yasser200.26@gmail.com
 
